@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Java-AS</string>
+    <string name="myString">BOOM</string>
+    <string name="toName">Person Name</string>
+
+</resources>
