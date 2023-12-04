@@ -78,6 +78,10 @@ public class MainActivity extends AppCompatActivity {
         startActivity(goToEmails);
    }
 
+   public void newFunction(View v) {
+        System.out.println("Do something");
+   }
+
 
 
 
